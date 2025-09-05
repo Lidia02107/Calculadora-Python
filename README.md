@@ -23,4 +23,4 @@ Esse projeto foi criado para **aprender lógica de programação** e como usar o
 1. Tenha o **Python 3** instalado no computador.  
 2. Clone este repositório:
    ```bash
-   git clone https://github.com/<lidia02107>/calculadora-python.git
+https://github.com/<lidia02107>/calculadora-python.git
